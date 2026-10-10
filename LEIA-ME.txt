@@ -1,0 +1,12 @@
+JEANNE PHILX — COMO PUBLICAR DE GRAÇA
+
+1. Acesse https://app.netlify.com/drop
+2. Crie uma conta gratuita e faça login.
+3. Arraste a pasta inteira jeanne-philx-para-publicar para a área indicada.
+4. Clique em Deploy site, se solicitado.
+5. No painel da Netlify, certifique-se de que a visibilidade do site esteja PUBLIC.
+6. Copie o link .netlify.app que será criado para compartilhar.
+
+Não envie o arquivo ZIP compactado: descompacte primeiro e arraste a pasta.
+
+Esta é a versão pública de apresentação (estática). Login do painel administrador e upload de novas publicações só funcionam após configurar o projeto React + Firebase.
